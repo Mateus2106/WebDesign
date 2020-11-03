@@ -1,0 +1,434 @@
+{
+  "estados": [
+    {
+      "id": 1,
+      "estado": "Acre",
+      "sigla": "AC",
+      "população": "881.935 Habitantes",
+      "capital": "Rio Branco",
+      "área (1000 km²)": "152,5",
+      "região": "Norte"
+    },
+    {
+      "id": 2,
+      "estado": "Alagoas",
+      "sigla": "AL",
+      "população": "3.337.357 Habitantes",
+      "capital": "Maceió",
+      "área (1000 km²)": "27,7",
+      "região": "Nordeste"
+    },
+    {
+      "id": 3,
+      "estado": "Amapá",
+      "sigla": "AP",
+      "população": "845.731 Habitantes",
+      "capital": "Macapá",
+      "área (1000 km²)": "142,8",
+      "região": "Norte"
+    },
+    {
+      "id": 4,
+      "estado": "Amazonas",
+      "sigla": "AM",
+      "população": "4.144.597 Habitantes",
+      "capital": "Manaus",
+      "área (1000 km²)": "1570,7",
+      "região": "Norte"
+    },
+    {
+      "id": 5,
+      "estado": "Bahia",
+      "sigla": "BA",
+      "população": "14.873.064 Habitantes",
+      "capital": "Salvador",
+      "área (1000 km²)": "564,6",
+      "região": "Nordeste"
+    },
+    {
+      "id": 6,
+      "estado": "Ceará",
+      "sigla": "CE",
+      "população": "9.132.078 Habitantes",
+      "capital": "Fortaleza",
+      "área (1000 km²)": "148,8",
+      "região": "Nordeste"
+    },
+    {
+      "id": 7,
+      "estado": "Distrito Federal",
+      "sigla": "DF",
+      "população": "3.015.268 Habitantes",
+      "capital": "Brasília",
+      "área (1000 km²)": "5,8",
+      "região": "Centro-Oeste"
+    },
+    {
+      "id": 8,
+      "estado": "Espírito Santo ",
+      "sigla": "ES",
+      "população": "4.018.650 Habitantes",
+      "capital": "Vitória",
+      "área (1000 km²)": "46,0",
+      "região": "Sudeste"
+    },
+    {
+      "id": 9,
+      "estado": "Goiás",
+      "sigla": "GO",
+      "população": "7.018.354 Habitantes",
+      "capital": "Goiânia",
+      "área (1000 km²)": "340,0",
+      "região": "Centro-Oeste"
+    },
+    {
+      "id": 10,
+      "estado": "Maranhão",
+      "sigla": "MA",
+      "população": "7.075.181 Habitantes",
+      "capital": "São Luíz",
+      "área (1000 km²)": "332,0",
+      "região": "Nordeste"
+    },
+    {
+      "id": 11,
+      "estado": "Mato Grosso",
+      "sigla": "MT",
+      "população": "3.484.466 Habitantes",
+      "capital": "Cuiabá",
+      "área (1000 km²)": "903,3",
+      "região": "Centro-Oeste"
+    },
+    {
+      "id": 12,
+      "estado": "Mato Grosso do Sul",
+      "sigla": "MS",
+      "população": "2.778.986 Habitantes",
+      "capital": "Campo Grande",
+      "área (1000 km²)": "357,1",
+      "região": "Centro-Oeste"
+    },
+    {
+      "id": 13,
+      "estado": "Minas Gerais",
+      "sigla": "MG",
+      "população": "21.168.791 Habitantes",
+      "capital": "Belo Horizonte",
+      "área (1000 km²)": "587,5",
+      "região": "Sudeste"
+    },
+    {
+      "id": 14,
+      "estado": "Pará",
+      "sigla": "PA",
+      "população": "8.602.865 Habitantes",
+      "capital": "Belém",
+      "área (1000 km²)": "1247,6",
+      "região": "Norte"
+    },
+    {
+      "id": 15,
+      "estado": "Paraíba",
+      "sigla": "PB",
+      "população": "4.018.127 Habitantes",
+      "capital": "João Pessoa",
+      "área (1000 km²)": "56,4",
+      "região": "Nordeste"
+    },
+    {
+      "id": 16,
+      "estado": "Paraná",
+      "sigla": "PR",
+      "população": "11.433.957 Habitantes",
+      "capital": "Curitiba",
+      "área (1000 km²)": "199,3",
+      "região": "Sul"
+    },
+    {
+      "id": 17,
+      "estado": "Pernambuco",
+      "sigla": "PE",
+      "população": "9.557.071 Habitantes",
+      "capital": "Recife",
+      "área (1000 km²)": "98,3",
+      "região": "Nordeste"
+    },
+    {
+      "id": 18,
+      "estado": "Piauí",
+      "sigla": "PI",
+      "população": "3.273.227 Habitantes",
+      "capital": "Teresina",
+      "área (1000 km²)": "251,5",
+      "região": "Nordeste"
+    },
+    {
+      "id": 19,
+      "estado": "Rondônia",
+      "sigla": "RO",
+      "população": "1.777.225 Habitantes",
+      "capital": "Porto Velho",
+      "área (1000 km²)": "237,5",
+      "região": "Norte"
+    },
+    {
+      "id": 20,
+      "estado": "Roraima",
+      "sigla": "RR",
+      "população": "605.761 Habitantes",
+      "capital": "Boa Vista",
+      "área (1000 km²)": "224,2",
+      "região": "Norte"
+    },
+    {
+      "id": 21,
+      "estado": "Rio de Janeiro",
+      "sigla": "RJ",
+      "população": "17.264.943 Habitantes",
+      "capital": "Rio de Janeiro",
+      "área (1000 km²)": "43,6",
+      "região": "Sudeste"
+    },
+    {
+      "id": 22,
+      "estado": "Rio Grande do Norte",
+      "sigla": "RN",
+      "população": "3.506.853 Habitantes",
+      "capital": "Natal",
+      "área (1000 km²)": "52,8",
+      "região": "Nordeste"
+    },
+    {
+      "id": 23,
+      "estado": "Rio Grande do Sul",
+      "sigla": "RS",
+      "população": "11.377.239 Habitantes",
+      "capital": "Porto Alegre",
+      "área (1000 km²)": "281,7",
+      "região": "Sul"
+    },
+    {
+      "id": 24,
+      "estado": "Santa Catarina",
+      "sigla": "SC",
+      "população": "7.164.788 Habitantes",
+      "capital": "Florianópolis",
+      "área (1000 km²)": "95,3",
+      "região": "Sul"
+    },
+    {
+      "id": 25,
+      "estado": "São Paulo",
+      "sigla": "SP",
+      "população": "45.919.049 Habitantes",
+      "capital": "São Paulo",
+      "área (1000 km²)": "248,2",
+      "região": "Sudeste"
+    },
+    {
+      "id": 26,
+      "estado": "Sergipe",
+      "sigla": "SE",
+      "população": "2.298.696 Habitantes",
+      "capital": "Aracaju",
+      "área (1000 km²)": "21,9",
+      "região": "Nordeste"
+    },
+    {
+      "id": 27,
+      "estado": "Tocantins",
+      "sigla": "TO",
+      "população": "1.572.866 Habitantes",
+      "capital": "Palmas",
+      "área (1000 km²)": "277,6",
+      "região": "Norte"
+    }
+  ],
+  "paises": [
+    {
+      "id": 1,
+      "país": "Argentina",
+      "capital": "Buenos Aires"
+    },
+    {
+      "id": 2,
+      "país": "Bolívia",
+      "capital": "La Paz"
+    },
+    {
+      "id": 3,
+      "país": "Brasil",
+      "capital": "Brasília"
+    },
+    {
+      "id": 4,
+      "país": "Chile",
+      "capital": "Santiago"
+    },
+    {
+      "id": 5,
+      "país": "Colômbia",
+      "capital": "Bogotá"
+    },
+    {
+      "id": 6,
+      "país": "Equador",
+      "capital": "Quito"
+    },
+    {
+      "id": 7,
+      "país": "Guiana Francesa",
+      "capital": "Caiena"
+    },
+    {
+      "id": 8,
+      "país": "Guiana",
+      "capital": "Georgetown"
+    },
+    {
+      "id": 9,
+      "país": "Paraguai",
+      "capital": "Assunção"
+    },
+    {
+      "id": 10,
+      "país": "Peru",
+      "capital": "Lima"
+    },
+    {
+      "id": 11,
+      "país": "Suriname",
+      "capital": "Paramaribo"
+    },
+    {
+      "id": 12,
+      "país": "Uruguai",
+      "capital": "Montevidéu"
+    },
+    {
+      "id": 13,
+      "país": "Venezuela",
+      "capital": "Caracas"
+    },
+    {
+      "id": 14,
+      "país": "Antígua e Barbuda",
+      "capital": "Saint John's"
+    },
+    {
+      "id": 15,
+      "país": "Bahamas",
+      "capital": "Nassau"
+    },
+    {
+      "id": 16,
+      "país": "Barbados",
+      "capital": "Bridgetown"
+    },
+    {
+      "id": 17,
+      "país": "Belize",
+      "capital": "Belmopan"
+    },
+    {
+      "id": 18,
+      "país": "Costa Rica",
+      "capital": "São José"
+    },
+    {
+      "id": 19,
+      "país": "Cuba",
+      "capital": "Havana"
+    },
+    {
+      "id": 20,
+      "país": "Dominica",
+      "capital": "Roseau"
+    },
+    {
+      "id": 21,
+      "país": "El Salvador",
+      "capital": "São Salvador"
+    },
+    {
+      "id": 22,
+      "país": "Granada",
+      "capital": "Saint George's"
+    },
+    {
+      "id": 23,
+      "país": "Guatemala",
+      "capital": "Cidade da Guatemala"
+    },
+    {
+      "id": 24,
+      "país": "Haiti",
+      "capital": "Porto Príncipe"
+    },
+    {
+      "id": 25,
+      "país": "Dominica",
+      "capital": "Roseau"
+    },
+    {
+      "id": 26,
+      "país": "Honduras",
+      "capital": "Tegucigalpa"
+    },
+    {
+      "id": 27,
+      "país": "Jamaica",
+      "capital": "Kingston"
+    },
+    {
+      "id": 28,
+      "país": "Nicarágua",
+      "capital": "Manágua"
+    },
+    {
+      "id": 29,
+      "país": "Panamá",
+      "capital": "Cidade de Panamá"
+    },
+    {
+      "id": 30,
+      "país": "República Dominicana",
+      "capital": "São Domingos"
+    },
+    {
+      "id": 31,
+      "país": "Santa Lúcia",
+      "capital": "Castries"
+    },
+    {
+      "id": 32,
+      "país": "São Cristóvão e Nevis",
+      "capital": "Basseterre"
+    },
+    {
+      "id": 33,
+      "país": "São Vicente e Granadinas",
+      "capital": "Kingstown"
+    },
+    {
+      "id": 34,
+      "país": "Trinidad e Tobago",
+      "capital": "Porto de Espanha"
+    },
+    {
+      "id": 35,
+      "país": "México",
+      "capital": "Cidade do méxico"
+    },
+    {
+      "id": 36,
+      "país": "Canadá",
+      "capital": "Ottawa"
+    },
+    {
+      "id": 37,
+      "país": "Estados Unidos",
+      "capital": "Washington DC"
+    }
+  ]
+}
